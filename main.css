@@ -1,4 +1,18 @@
 body {
-  background: #dceca9; }
+  background: #dceca9;
+  margin: 30px; }
+
+h1, h2 {
+  font-family: Arial, sans-serif; }
+
+h2 {
+  margin-bottom: 40px; }
+
+p {
+  margin: 15px; }
+
+body > * {
+  width: 50%;
+  margin: 0 auto; }
 
 /*# sourceMappingURL=main.css.map */
